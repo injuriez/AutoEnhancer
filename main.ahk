@@ -115,7 +115,7 @@ Start()
         else if (SelectedEnchant = "Bubbler") {
             if FindText(&X, &Y, 573-150000, 665-150000, 573+150000, 665+150000, 0, 0, Bubbler)
                 {
-                    logmesssage("[Found Looter enchant]")
+                    logmesssage("[Found Bubbler enchant]")
                     Sleep(1000)
                     break
                 }
