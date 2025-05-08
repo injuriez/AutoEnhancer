@@ -1,0 +1,18 @@
+{
+    "Name": "Auto Enchaner",
+    "Description": "Auto Enchant Pets",
+    "Author": "Rushi",
+    "Version": "1.0",
+    "Image": "https://i.ibb.co/MkwfBb1J/image-2025-05-07-234225166.png",
+    "Tags": {
+        "Resolution": "1920x1080",
+        "Type": "AHK"
+    },
+    "Main": "main.ahk",
+    "MangoID": "MangoGuardsBubble14",
+    "BigThumbnail": "https://i.ibb.co/gZXHCc59/New-Project-17.png"
+    
+
+    
+}
+
