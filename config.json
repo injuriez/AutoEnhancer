@@ -1,18 +1,15 @@
 {
-    "Name": "Auto Enchaner",
-    "Description": "Auto Enchant Pets",
-    "Author": "Rushi",
+    "Name": "AutoEnhancer",
+    "Description": "No description provided",
+    "Author": "injuriez",
     "Version": "1.0",
-    "Image": "https://i.ibb.co/MkwfBb1J/image-2025-05-07-234225166.png",
+    "Image": "https://i.ibb.co/mVyGhDHn/mango-1.png",
     "Tags": {
-        "Resolution": "1920x1080",
+        "Resolution": "Full Res Support",
         "Type": "AHK"
     },
     "Main": "main.ahk",
-    "MangoID": "MangoGuardsBubble14",
-    "BigThumbnail": "https://i.ibb.co/gZXHCc59/New-Project-17.png"
-    
-
-    
+    "MangoID": "Mango-vjbra2",
+    "bigthumbnail": "https://i.postimg.cc/h4Y1mmXF/New-Project-14.png",
+    "Game": "bubblegumsim"
 }
-
